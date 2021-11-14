@@ -1,1 +1,1 @@
-# cpp-class
+# This is an autonomous ‘options exchange’ program on the Solana Blockchain that allows people to buy and sell European options on the SOL cryptocurrency, acting as an automated market maker. SOL token holders can add their coins to the liquidity pool and receive interest, replicating a typical decentralized exchange. The constant product formula that usually determines prices on a dex has been modified to determine the correct premium of options based on liquidity, outstanding options, and several other factors.
